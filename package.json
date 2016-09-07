@@ -1,7 +1,7 @@
 {
-    "name": "darkplusix",
-    "displayName": "darkplusix",
-    "description": "extension of dark plus default theme for better elixir coloring",
+    "name": "Darkplusix",
+    "displayName": "Darkplusix",
+    "description": "Extension of dark plus default theme for better elixir coloring",
     "version": "0.0.1",
     "publisher": "thonymg",
     "engines": {

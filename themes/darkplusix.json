@@ -98,6 +98,13 @@
 				"foreground": "#f44747",
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"scope": "elixir.keyword.other.special-method",
+			"settings": {
+				"foreground": "#FF5722",
+				"fontStyle": "bold"
+			}
 		}
 	]
 }
