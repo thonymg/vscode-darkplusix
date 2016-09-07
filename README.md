@@ -1,5 +1,5 @@
 # DARKPLUSIX
-[![Darkplusix](darkplusix.png)](http://google.com.au/)
+[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/darkplusix.PNG)](https://github.com/thonymg/vscode-darkplusix)
 
 Darkplusix is a VSCode theme for elixir language.
 
