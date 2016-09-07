@@ -1,0 +1,103 @@
+{
+	"name": "Darkplusix",
+	"include": "./dark_vs.json",
+	"settings": [
+		{
+			"name": "CSS property value",
+			"scope": [
+				"elixir.keyword.operator.assignment"
+			],
+			"settings": {
+				"foreground": "#8d2eb7"
+			}
+		},
+		{
+			"scope": [
+				"elixir.other.constant.symbol",
+				"elixir.punctuation.definition.other.constant.symbol"
+			],
+			"settings": {
+				"foreground": "#C586C0"
+			}
+		},
+		{
+			"scope": [
+				"elixir.entity.name.function",
+				"elixir.punctuation.definition.other.constant.symbol"
+			],
+			"settings": {
+				"foreground": "#4EC9B0"
+			}
+		},
+		{
+			"scope": [
+				"elixir.punctuation.section.scope",
+				"elixir.punctuation.separator.method"
+			],
+			"settings": {
+				"foreground": "#f44747"
+			}
+		},
+		{
+			"scope": [
+				"elixir.punctuation.section.function"
+			],
+			"settings": {
+				"foreground": "#d16969"
+			}
+		},
+		{
+			"scope": [
+				"elixir.punctuation.section.array"
+			],
+			"settings": {
+				"foreground": "#f8a9b4"
+			}
+		},
+		{
+			"scope": [
+				"elixir.keyword.operator.other"
+			],
+			"settings": {
+				"foreground": "#f8d10f",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"elixir.variable.other.readwrite.module",
+				"elixir.module.variable.other.punctuation.readwrite.definition"
+			],
+			"settings": {
+				"foreground": "#68EA52"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#808080",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "elixir.variable.other.constant",
+			"settings": {
+				"foreground": "#9cdcfe",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "constant.language.elixir",
+			"settings": {
+				"foreground": "#b5cea8"
+			}
+		},
+		{
+			"scope": "variable.language.elixir",
+			"settings": {
+				"foreground": "#f44747",
+				"fontStyle": "italic"
+			}
+		}
+	]
+}
