@@ -23,7 +23,8 @@
 		{
 			"scope": [
 				"elixir.entity.name.function",
-				"elixir.punctuation.definition.other.constant.symbol"
+				"elixir.punctuation.definition.other.constant.symbol",
+				"elixir.constant.numeric"
 			],
 			"settings": {
 				"foreground": "#4EC9B0"
@@ -67,13 +68,18 @@
 			"scope": [
 				"elixir.variable.other.readwrite.module",
 				"elixir.module.variable.other.punctuation.readwrite.definition"
+
 			],
 			"settings": {
 				"foreground": "#68EA52"
 			}
 		},
 		{
-			"scope": "comment",
+			"scope": [
+				"comment",
+				"support.function.variable.quoted.single.heredoc.elixir",
+				"comment.documentation"
+			],
 			"settings": {
 				"foreground": "#808080",
 				"fontStyle": "italic"
@@ -104,6 +110,13 @@
 			"settings": {
 				"foreground": "#FF5722",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.function.variable.quoted.single.elixir",
+			"settings": {
+				"foreground": "#FF5722",
+				"fontStyle": "italic"
 			}
 		}
 	]
