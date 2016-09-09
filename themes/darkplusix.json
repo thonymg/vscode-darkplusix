@@ -57,7 +57,8 @@
 		},
 		{
 			"scope": [
-				"elixir.keyword.operator.other"
+				"elixir.keyword.operator.other",
+				"elixir.punctuation.embedded.section"
 			],
 			"settings": {
 				"foreground": "#f8d10f",
@@ -113,7 +114,8 @@
 			}
 		},
 		{
-			"scope": "support.function.variable.quoted.single.elixir",
+			"scope": ["support.function.variable.quoted.single.elixir",
+								"elixir.embedded.keyword.control"],
 			"settings": {
 				"foreground": "#FF5722",
 				"fontStyle": "italic"
