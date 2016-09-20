@@ -78,7 +78,7 @@
 		{
 			"scope": [
 				"comment",
-				"support.function.variable.quoted.single.heredoc.elixir",
+				"elixir.support.function.variable.quoted.single.heredoc",
 				"comment.documentation"
 			],
 			"settings": {
