@@ -1,9 +1,12 @@
 # DARKPLUSIX
-[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/darkplusix.PNG)](https://github.com/thonymg/vscode-darkplusix)
+[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-ex.JPG)](https://github.com/thonymg/vscode-darkplusix)
+[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-jsx.JPG)](https://github.com/thonymg/vscode-darkplusix)
+[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-js.JPG)](https://github.com/thonymg/vscode-darkplusix)
 
-Darkplusix is a VSCode theme for elixir language.
+Extension of dark plus default theme for better elixir & javascript(ES6, React) coloring.
 
 Use [vscode-elixir](https://github.com/mat-mcloughlin/vscode-elixir) by Mat MacLoughlin.
+Use [FiraCode](https://github.com/tonsky/FiraCode) font (optional)
 
 ---------------------------------------------------------------------
 
