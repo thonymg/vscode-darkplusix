@@ -1,7 +1,13 @@
 # DARKPLUSIX
 [![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-ex.JPG)](https://github.com/thonymg/vscode-darkplusix)
+Elixir coloring 
+---------------------------------------------------------------------
 [![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-jsx.JPG)](https://github.com/thonymg/vscode-darkplusix)
+JSX coloring
+---------------------------------------------------------------------
 [![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-js.JPG)](https://github.com/thonymg/vscode-darkplusix)
+JavaScript/ES6 coloring 
+---------------------------------------------------------------------
 
 Extension of dark plus default theme for better elixir & javascript(ES6, React) coloring.
 
