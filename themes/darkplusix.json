@@ -1,7 +1,33 @@
 {
 	"name": "Darkplusix",
-	"include": "./dark_vs.json",
+	"include": "./dark_plus.json",
 	"settings": [
+		{
+			"settings": {
+				"activeGuide": "#CACED6",
+				"foreground": "#ABB2BF",
+				"background": "",
+				"caret": "#528BFF",
+				"findHighlight": "#FFE792",
+				"guide": "#3C4049",
+				"invisibles": "#3C4049",
+				"lineHighlight": "#2C313A",
+				"selection": "#3E4451"
+			}
+		},
+		{
+			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#cccccc"
+			}
+		},
+		{
+			"name": "",
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#ce9178"
+			}
+		},
 		{
 			"name": "CSS property value",
 			"scope": [
@@ -23,7 +49,7 @@
 		},
 		{
 			"scope": [
-				"entity.name.function",
+				"keyword.control",
 				"punctuation.definition.other.constant.symbol",
 				"constant.numeric"
 			],
@@ -58,7 +84,14 @@
 		},
 		{
 			"scope": [
-				"keyword.operator",
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#f8d10f"
+			}
+		},
+		{
+			"scope": [
 				"punctuation.embedded.section"
 			],
 			"settings": {
@@ -68,9 +101,9 @@
 		},
 		{
 			"scope": [
+				"entity.name.function",
 				"variable.other.readwrite.module",
 				"module.variable.other.punctuation.readwrite.definition"
-
 			],
 			"settings": {
 				"foreground": "#68EA52"
@@ -89,7 +122,8 @@
 		},
 		{
 			"scope": [
-								"variable.other.constant"],
+				"variable.other.constant"
+			],
 			"settings": {
 				"foreground": "#9cdcfe",
 				"fontStyle": "italic"
@@ -110,17 +144,19 @@
 		},
 		{
 			"scope": [
-				"keyword.other.special-method",											
-				"round.accessor"],
+				"keyword.other.special-method",
+				"round.accessor"
+			],
 			"settings": {
 				"foreground": "#FF5722",
 				"fontStyle": "bold"
 			}
 		},
 		{
-			"scope": ["support.function.variable.quoted.single",
-								"embedded.keyword.control"
-								],
+			"scope": [
+				"support.function.variable.quoted.single",
+				"embedded.keyword.control"
+			],
 			"settings": {
 				"foreground": "#FF5722",
 				"fontStyle": "italic"

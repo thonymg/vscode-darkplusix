@@ -1,8 +1,8 @@
 {
     "name": "Darkplusix",
     "displayName": "Darkplusix",
-    "description": "Extension of dark plus default theme for better elixir coloring",
-    "version": "1.0.0",
+    "description": "Extension of dark plus default theme for better elixir & javascript(ES6, React) coloring",
+    "version": "1.0.1",
     "publisher": "thonymg",
     "engines": {
         "vscode": "^1.4.0"
